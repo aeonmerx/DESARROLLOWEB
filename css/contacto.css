@@ -1,0 +1,60 @@
+
+  body{
+    color: black !important;
+    background-color: gray;
+    }
+    
+       figure{
+        background-color: black;
+    }
+    .container-fluid{
+        background-color: black;
+    }
+     .contenidi{
+ 
+padding-left: 0 !important;
+padding-right: 0 !important;
+width: 100% !important;
+     }
+     .contenedorprincipal{
+         height: 1000px;
+         width: 100%;
+     }
+     .footers{
+         position: fixed;
+         bottom: 2%;
+         width: 100%;
+         text-align: center;
+         background-color: black;
+         color: white;
+     }
+     center{
+         background-color: black;
+         text-align: center;
+         height: 600px;
+     }
+     body{
+
+         
+         font-family: Arial;
+     }
+     
+     h2{
+         text-align: center;
+         color: black;
+         font-family: Arial;
+     }
+     a{
+       color: white;
+     }
+     #myCarousel{
+         background-color: black;
+         width: 100%;
+height: 500px;
+     }
+     footer {
+text-align: center;
+padding: 3px;
+background-image: linear-gradient(black,gray,black);
+color: white;
+}

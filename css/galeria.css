@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    color: white;
+    
+}
+body{
+    background-color: black !important;
+}
+#imagenes{
+   margin-top:10px;
+   background-color: black;
+   display: flexbox;
+}
+.linea{
+    background-image: linear-gradient(to left, yellow,red,black);
+    height: 20px;;
+}
+#whatsapp{
+    margin-top: 30px;
+}
+.row{
+    display: flexbox;
+}
+image{
+    image-rendering: optimizeSpeed;
+}
+button{
+    background-color: black !important;
+}
+button:hover{
+    background-color: orangered !important;
+
+   
+}
+button>a{
+    color: white;
+   
+   
+}
+button>a:hover{
+    color: white;
+}
+/* Medias queries */
+
+@media (max-width: 600px) {
+  
+  #demo{
+    display: none;
+  }
+  button{
+   display: inline;
+   background-color: black !important;
+   margin-top: 20px !important;
+  }
+}
+h5{
+    text-align: center;
+}
